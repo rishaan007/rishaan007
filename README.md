@@ -8,7 +8,7 @@
 
 - 💬 Ask me about **Java, Python, JavaScript, HTML, CSS, C**
 
-- 📫 How to reach me **rishaankumar.it2024@nsec.ac.in**
+- 📫 Reach me at **rishaankumar.it2024@nsec.ac.in**
 
 - ⚡ Fun fact **The journey of coding is like Java's `public static void main(String[] args)` — It all starts from here! 😄**
 
