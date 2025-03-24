@@ -20,9 +20,9 @@
 ---
 
 ## **📊 GitHub Stats**
-![rishaan007's Stats](https://github-readme-stats.vercel.app/api?username=rishaan007&theme=blueberry&show_icons=true&hide_border=true&count_private=true) <br>
-![rishaan007's Streak](https://github-readme-streak-stats.herokuapp.com/?user=rishaan007&theme=blueberry&hide_border=true) <br>
-![rishaan007's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rishaan007&theme=blueberry&show_icons=true&hide_border=true&layout=compact)
+![rishaan007's Stats](https://github-readme-stats.vercel.app/api?username=rishaan007&theme=vision-friendly-dark&show_icons=true&hide_border=true&count_private=true) <br>
+![rishaan007's Streak](https://github-readme-streak-stats.herokuapp.com/?user=rishaan007&theme=vision-friendly-dark&hide_border=true) <br>
+![rishaan007's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rishaan007&theme=vision-friendly-dark&show_icons=true&hide_border=true&layout=compact)
 
 ---
 
