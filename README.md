@@ -20,15 +20,9 @@
 ---
 
 ## **📊 GitHub Stats**
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rishaan007&theme=dark&hide_border=true" alt="GitHub Streak" />
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rishaan007&show_icons=true&theme=dark&hide_border=true" alt="GitHub Stats" />
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rishaan007&layout=compact&theme=dark&hide_border=true" alt="Top Languages" />
-</p>
+![rishaan007's Stats](https://github-readme-stats.vercel.app/api?username=rishaan007&theme=blueberry&show_icons=true&hide_border=true&count_private=true)
+![rishaan007's Streak](https://github-readme-streak-stats.herokuapp.com/?user=rishaan007&theme=blueberry&hide_border=true)
+![rishaan007's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rishaan007&theme=blueberry&show_icons=true&hide_border=true&layout=compact)
 
 ---
 
