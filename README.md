@@ -291,28 +291,22 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="30" /> Coding Activity
-
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212750999-42ff8a64-dad8-4772-9648-8ce235194cf6.gif" width="600">
+  <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="600">
 </div>
+
 
 ## <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="30" /> Profile Views & Metrics
-
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=rishaan007&label=Profile%20views&color=36BCF7&style=for-the-badge" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/rishaan007?label=Followers&style=for-the-badge&color=36BCF7" alt="Followers" />
-  <img src="https://img.shields.io/github/stars/rishaan007?label=Stars&style=for-the-badge&color=36BCF7" alt="Stars" />
+  <img src="https://komarev.com/ghpvc/?username=rishaan007&label=Profile%20views&color=A855F7&style=for-the-badge" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/rishaan007?label=Followers&style=for-the-badge&color=A855F7" alt="Followers" />
+  <img src="https://img.shields.io/github/stars/rishaan007?label=Stars&style=for-the-badge&color=A855F7" alt="Stars" />
 </div>
-
 <br>
-
 <div align="center">
-  <img src="https://visitcount.itsvg.in/api?id=rishaan007&icon=2&color=6" alt="Visit Count" />
+  <img src="https://visitcount.itsvg.in/api?id=rishaan007&icon=9&color=12" alt="Visit Count" />
 </div>
 
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212751065-0f4d4c26-96f8-4f58-8888-e0ab3beaa951.gif" width="600">
-</div>
 
 ## <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="30" /> Snake Game - Contribution Graph
 
