@@ -1,18 +1,18 @@
 # <img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" width="40px" /> Hey there! I'm Rishaan Kumar <img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" width="40px" />
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=35&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Welcome+to+my+GitHub+Profile!;Full+Stack+Developer+%F0%9F%9A%80;Tech+Enthusiast+%F0%9F%92%BB;Always+Learning+New+Things!;Building+the+Future+with+Code!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=35&pause=1000&color=36BCF7FF&background=FFFFFF00&center=true&vCenter=true&width=700&lines=Welcome+to+my+GitHub+Profile!+%F0%9F%91%8B;Full+Stack+Developer+%F0%9F%9A%80;Tech+Enthusiast+%F0%9F%92%BB;Always+Learning+New+Things!+%F0%9F%93%9A;Building+the+Future+with+Code!+%E2%9C%A8;Let's+Connect+and+Code+Together!+%F0%9F%A4%9D" alt="Typing SVG" />
 </div>
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="600">
 </div>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="30" /> About Me
 
-<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
+<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/212750996-938b257b-266c-45a7-9af7-655341c0f58b.gif">
 
 - 🌱 **Currently Learning:** <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB" /> <img src="https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white" /> <img src="https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white" /> <img src="https://img.shields.io/badge/MySQL-00000F?style=flat&logo=mysql&logoColor=white" /> <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white" />
 
@@ -27,8 +27,6 @@
 - ⚡ **Fun fact:** The journey of coding is like Java's `public static void main(String[] args)` — It all starts from here! 😄
 
 <br clear="right"/>
-
-<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="100%">
 
 ## <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="30" /> Connect with me
 
@@ -46,8 +44,6 @@
     <img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" alt="Gmail" height="25"/>
   </a>
 </div>
-
-
 
 ## <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="30" /> Tech Stack & Tools
 
@@ -107,6 +103,7 @@
   </table>
 </div>
 
+
 ### <img src="https://user-images.githubusercontent.com/74038190/216121986-1bf0e165-c479-4c89-b1c6-5c4e95760459.png" width="30" /> Backend Development
 
 <div align="center">
@@ -150,9 +147,7 @@
   </table>
 </div>
 
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="500">
-</div>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="30" /> GitHub Analytics
 
@@ -180,7 +175,7 @@
 </div>
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+  <img src="https://user-images.githubusercontent.com/74038190/212750155-3ceddfbd-19d3-40a3-87af-8d329c8323c4.gif" width="600">
 </div>
 
 ## <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="30" /> Featured Projects
@@ -189,7 +184,7 @@
   <table>
     <tr>
       <td width="50%">
-        <h3 align="center" color="white">Swasthya Health Platform</h3>
+        <h3 align="center" color="white">🩺 Swasthya Health Platform</h3>
         <div align="center">  
           <a href="https://github.com/rishaan007/Swasthya-main" target="_blank">
             <img src="https://github-readme-stats.vercel.app/api/pin/?username=rishaan007&repo=Swasthya-main&theme=tokyonight&border_color=36BCF7&border_radius=10" alt="Swasthya-main" />
@@ -203,7 +198,7 @@
         </p>
       </td>
       <td width="50%">
-        <h3 align="center" color="white">Competitive Programming</h3>
+        <h3 align="center" color="white">⚡ Competitive Programming</h3>
         <div align="center">
           <a href="https://github.com/rishaan007/Competitive-Coding-Java" target="_blank">
             <img src="https://github-readme-stats.vercel.app/api/pin/?username=rishaan007&repo=Competitive-Coding-Java&theme=tokyonight&border_color=36BCF7&border_radius=10" alt="Competitive-Coding-Java" />
@@ -219,7 +214,7 @@
     </tr>
     <tr>
       <td width="50%">
-        <h3 align="center" color="white">C Programming Fundamentals</h3>
+        <h3 align="center" color="white">🔧 C Programming Fundamentals</h3>
         <div align="center">
           <a href="https://github.com/rishaan007/C-language" target="_blank">
             <img src="https://github-readme-stats.vercel.app/api/pin/?username=rishaan007&repo=C-language&theme=tokyonight&border_color=36BCF7&border_radius=10" alt="C-language" />
@@ -233,7 +228,7 @@
         </p>
       </td>
       <td width="50%">
-        <h3 align="center" color="white">Web Development Basics</h3>
+        <h3 align="center" color="white">🎨 Web Development Basics</h3>
         <div align="center">
           <a href="https://github.com/rishaan007/CSS-Basics" target="_blank">
             <img src="https://github-readme-stats.vercel.app/api/pin/?username=rishaan007&repo=CSS-Basics&theme=tokyonight&border_color=36BCF7&border_radius=10" alt="CSS-Basics" />
@@ -250,14 +245,15 @@
   </table>
 </div>
 
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="500">
-</div>
 
 ## <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="30" /> Learning Journey
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=react,nodejs,flutter,mysql,mongodb&theme=dark" />
+</div>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212750147-854a394f-fee9-4080-9770-78a4b7ece53f.gif" width="400">
 </div>
 
 <div align="center">
@@ -292,14 +288,12 @@
   </table>
 </div>
 
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
-</div>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="30" /> Coding Activity
 
 <div align="center">
-  <img src="https://wakatime.com/share/@rishaan007/6f9c7b6d-6c9e-4f4e-9b7a-8e6c5d4a3b2c.svg" alt="Wakatime Stats" width="600" />
+  <img src="https://user-images.githubusercontent.com/74038190/212750999-42ff8a64-dad8-4772-9648-8ce235194cf6.gif" width="600">
 </div>
 
 ## <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="30" /> Profile Views & Metrics
@@ -316,41 +310,41 @@
   <img src="https://visitcount.itsvg.in/api?id=rishaan007&icon=2&color=6" alt="Visit Count" />
 </div>
 
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212751065-0f4d4c26-96f8-4f58-8888-e0ab3beaa951.gif" width="600">
+</div>
+
 ## <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="30" /> Snake Game - Contribution Graph
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/rishaan007/rishaan007/blob/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://github.com/rishaan007/rishaan007/blob/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://github.com/rishaan007/rishaan007/blob/output/github-contribution-grid-snake.svg">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rishaan007/rishaan007/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rishaan007/rishaan007/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/rishaan007/rishaan007/output/github-contribution-grid-snake.svg">
   </picture>
 </div>
 
-## <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="30" /> Random Dev Quote
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="600">
+</div>
+
+## <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="30" /> Quote
 
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&border=true" />
 </div>
 
-## <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="30" /> Currently Playing
-
 <div align="center">
-  <img src="https://spotify-github-profile.vercel.app/api/spotify?background_color=1a1b27&border_color=36BCF7" alt="Spotify Now Playing" />
+  <img src="https://user-images.githubusercontent.com/74038190/212750e67-7b6b-4f85-aa12-8a27a9f7c6b8.gif" width="400">
 </div>
 
-## <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="30" /> Support My Work
+## 🎵 Currently Vibing To
+  <h3>🎼 Flight - Hans Zimmer</h3>
+  <p><em>From "Man of Steel" Original Motion Picture Soundtrack</em></p>
 
-<div align="center">
-  <a href="https://www.buymeacoffee.com/rishaan007" target="_blank">
-    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="60" width="217">
-  </a>
-</div>
 
----
 
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
-</div>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <div align="center">
   <h2><img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="30" /> "The journey of coding is like Java's public static void main(String[] args) — It all starts from here!" <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="30" /></h2>
