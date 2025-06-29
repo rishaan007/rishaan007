@@ -1,34 +1,366 @@
-<h1 align="center">Hi 👋, I'm Rishaan Kumar</h1>
-<h3 align="center">💻 Passionate Developer | 🎓 B.Tech IT Student</h3>
+# <img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" width="40px" /> Hey there! I'm Rishaan Kumar <img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" width="40px" />
 
---- 
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=35&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Welcome+to+my+GitHub+Profile!;Full+Stack+Developer+%F0%9F%9A%80;Tech+Enthusiast+%F0%9F%92%BB;Always+Learning+New+Things!;Building+the+Future+with+Code!" alt="Typing SVG" />
+</div>
 
-## **💡 About Me**
-- 🌱 I’m currently learning **React, Nodejs, Flutter, MySQL**
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="600">
+</div>
 
-- 💬 Ask me about **Java, Python, JavaScript, HTML, CSS, C**
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
-- 📫 Reach me at **rishaankumar.it2024@nsec.ac.in**
+## <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="30" /> About Me
 
-- ⚡ Fun fact **The journey of coding is like Java's `public static void main(String[] args)` — It all starts from here! 😄**
+<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
+
+- 🌱 **Currently Learning:** <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB" /> <img src="https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white" /> <img src="https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white" /> <img src="https://img.shields.io/badge/MySQL-00000F?style=flat&logo=mysql&logoColor=white" /> <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white" />
+
+- 💬 **Ask me about:** <img src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white" /> <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" /> <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" /> <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" /> <img src="https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white" />
+
+- 📫 **Reach me at:** [rishaankumar.it2024@nsec.ac.in](mailto:rishaankumar.it2024@nsec.ac.in)
+
+- 📍 **Location:** Kolkata, India <img src="https://cdn-icons-png.flaticon.com/512/197/197419.png" width="20" />
+
+- 🕒 **Timezone:** UTC +05:30
+
+- ⚡ **Fun fact:** The journey of coding is like Java's `public static void main(String[] args)` — It all starts from here! 😄
+
+<br clear="right"/>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="100%">
+
+## <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="30" /> Connect with me
+
+<div align="center">
+  <a href="https://linkedin.com/in/rishaankumar" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" height="25"/>
+  </a>
+  <a href="https://x.com/rishaankumar7" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white" alt="Twitter" height="25"/>
+  </a>
+  <a href="https://instagram.com/therishaankumar" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white" alt="Instagram" height="25"/>
+  </a>
+  <a href="mailto:rishaankumar.it2024@nsec.ac.in">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" alt="Gmail" height="25"/>
+  </a>
+</div>
+
+
+
+## <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="30" /> Tech Stack & Tools
+
+<div align="center">
+  <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="Java" width="65" height="65" />
+  <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="65" height="65" />
+  <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="65" height="65" />
+  <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="65" height="65" />
+  <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="MySQL" width="65" height="65" />
+  <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="C" width="65" height="65" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="65" height="65" alt="MongoDB" />
+</div>
+
+### <img src="https://user-images.githubusercontent.com/74038190/216120981-b9507c36-0e04-4469-8e27-c99271b45ba5.png" width="30" /> Programming Languages
+
+<div align="center">
+  <table>
+    <tr>
+      <td align="center" width="100">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="60" height="60" alt="Java" />
+        <br><strong>Java</strong>
+      </td>
+      <td align="center" width="100">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="60" height="60" alt="Python" />
+        <br><strong>Python</strong>
+      </td>
+      <td align="center" width="100">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="60" height="60" alt="JavaScript" />
+        <br><strong>JavaScript</strong>
+      </td>
+      <td align="center" width="100">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="60" height="60" alt="C" />
+        <br><strong>C</strong>
+      </td>
+    </tr>
+  </table>
+</div>
+
+### <img src="https://user-images.githubusercontent.com/74038190/216120974-24a76b31-7f39-41f1-a38f-b3c1377cc612.png" width="30" /> Frontend Development
+
+<div align="center">
+  <table>
+    <tr>
+      <td align="center" width="100">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="60" height="60" alt="HTML5" />
+        <br><strong>HTML5</strong>
+      </td>
+      <td align="center" width="100">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="60" height="60" alt="CSS3" />
+        <br><strong>CSS3</strong>
+      </td>
+      <td align="center" width="100">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="60" height="60" alt="React" />
+        <br><strong>React</strong>
+      </td>
+    </tr>
+  </table>
+</div>
+
+### <img src="https://user-images.githubusercontent.com/74038190/216121986-1bf0e165-c479-4c89-b1c6-5c4e95760459.png" width="30" /> Backend Development
+
+<div align="center">
+  <table>
+    <tr>
+      <td align="center" width="100">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="60" height="60" alt="Node.js" />
+        <br><strong>Node.js</strong>
+      </td>
+    </tr>
+  </table>
+</div>
+
+### <img src="https://user-images.githubusercontent.com/74038190/216122003-5358da61-e6f4-4b0e-9088-7e96c9e4b96b.png" width="30" /> Mobile Development
+
+<div align="center">
+  <table>
+    <tr>
+      <td align="center" width="100">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="60" height="60" alt="Flutter" />
+        <br><strong>Flutter</strong>
+      </td>
+    </tr>
+  </table>
+</div>
+
+### <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="30" /> Database
+
+<div align="center">
+  <table>
+    <tr>
+      <td align="center" width="100">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="60" height="60" alt="MySQL" />
+        <br><strong>MySQL</strong>
+      </td>
+      <td align="center" width="100">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="60" height="60" alt="MongoDB" />
+        <br><strong>MongoDB</strong>
+      </td>
+    </tr>
+  </table>
+</div>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="500">
+</div>
+
+## <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="30" /> GitHub Analytics
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=rishaan007&theme=radical&no-frame=false&no-bg=false&margin-w=4&row=1&column=7" alt="GitHub Trophies" />
+</div>
+
+<br>
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rishaan007&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_radius=10&border_color=36BCF7"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rishaan007&layout=compact&langs_count=8&theme=tokyonight&border_radius=10&border_color=36BCF7"/>
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rishaan007&theme=tokyonight&border_radius=10&border=36BCF7" alt="GitHub Streak" />
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rishaan007&theme=tokyo-night&bg_color=1a1b27&hide_border=true&line=36BCF7&point=38bdae" width="100%"/>
+</div>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+</div>
+
+## <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="30" /> Featured Projects
+
+<div align="center">
+  <table>
+    <tr>
+      <td width="50%">
+        <h3 align="center" color="white">Swasthya Health Platform</h3>
+        <div align="center">  
+          <a href="https://github.com/rishaan007/Swasthya-main" target="_blank">
+            <img src="https://github-readme-stats.vercel.app/api/pin/?username=rishaan007&repo=Swasthya-main&theme=tokyonight&border_color=36BCF7&border_radius=10" alt="Swasthya-main" />
+          </a>
+        </div>
+        <br>
+        <p align="center">
+          <a href="https://github.com/rishaan007/Swasthya-main" target="_blank">
+            <img src="https://img.shields.io/badge/🔗-View%20Project-36BCF7?style=for-the-badge&logo=github"/>
+          </a>
+        </p>
+      </td>
+      <td width="50%">
+        <h3 align="center" color="white">Competitive Programming</h3>
+        <div align="center">
+          <a href="https://github.com/rishaan007/Competitive-Coding-Java" target="_blank">
+            <img src="https://github-readme-stats.vercel.app/api/pin/?username=rishaan007&repo=Competitive-Coding-Java&theme=tokyonight&border_color=36BCF7&border_radius=10" alt="Competitive-Coding-Java" />
+          </a>
+        </div>
+        <br>
+        <p align="center">
+          <a href="https://github.com/rishaan007/Competitive-Coding-Java" target="_blank">
+            <img src="https://img.shields.io/badge/🔗-View%20Project-36BCF7?style=for-the-badge&logo=github"/>
+          </a>
+        </p>
+      </td>
+    </tr>
+    <tr>
+      <td width="50%">
+        <h3 align="center" color="white">C Programming Fundamentals</h3>
+        <div align="center">
+          <a href="https://github.com/rishaan007/C-language" target="_blank">
+            <img src="https://github-readme-stats.vercel.app/api/pin/?username=rishaan007&repo=C-language&theme=tokyonight&border_color=36BCF7&border_radius=10" alt="C-language" />
+          </a>
+        </div>
+        <br>
+        <p align="center">
+          <a href="https://github.com/rishaan007/C-language" target="_blank">
+            <img src="https://img.shields.io/badge/🔗-View%20Project-36BCF7?style=for-the-badge&logo=github"/>
+          </a>
+        </p>
+      </td>
+      <td width="50%">
+        <h3 align="center" color="white">Web Development Basics</h3>
+        <div align="center">
+          <a href="https://github.com/rishaan007/CSS-Basics" target="_blank">
+            <img src="https://github-readme-stats.vercel.app/api/pin/?username=rishaan007&repo=CSS-Basics&theme=tokyonight&border_color=36BCF7&border_radius=10" alt="CSS-Basics" />
+          </a>
+        </div>
+        <br>
+        <p align="center">
+          <a href="https://github.com/rishaan007/CSS-Basics" target="_blank">
+            <img src="https://img.shields.io/badge/🔗-View%20Project-36BCF7?style=for-the-badge&logo=github"/>
+          </a>
+        </p>
+      </td>
+    </tr>
+  </table>
+</div>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="500">
+</div>
+
+## <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="30" /> Learning Journey
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=react,nodejs,flutter,mysql,mongodb&theme=dark" />
+</div>
+
+<div align="center">
+  <table>
+    <tr>
+      <td align="center" width="120">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="60" height="60" alt="React" />
+        <br><strong>React</strong>
+        <br><img src="https://progress-bar.dev/75/?title=Progress&width=100&color=61DAFB" />
+      </td>
+      <td align="center" width="120">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="60" height="60" alt="Node.js" />
+        <br><strong>Node.js</strong>
+        <br><img src="https://progress-bar.dev/60/?title=Progress&width=100&color=43853D" />
+      </td>
+      <td align="center" width="120">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="60" height="60" alt="Flutter" />
+        <br><strong>Flutter</strong>
+        <br><img src="https://progress-bar.dev/50/?title=Progress&width=100&color=02569B" />
+      </td>
+      <td align="center" width="120">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="60" height="60" alt="MySQL" />
+        <br><strong>MySQL</strong>
+        <br><img src="https://progress-bar.dev/70/?title=Progress&width=100&color=00000F" />
+      </td>
+      <td align="center" width="120">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="60" height="60" alt="MongoDB" />
+        <br><strong>MongoDB</strong>
+        <br><img src="https://progress-bar.dev/65/?title=Progress&width=100&color=4EA94B" />
+      </td>
+    </tr>
+  </table>
+</div>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+</div>
+
+## <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="30" /> Coding Activity
+
+<div align="center">
+  <img src="https://wakatime.com/share/@rishaan007/6f9c7b6d-6c9e-4f4e-9b7a-8e6c5d4a3b2c.svg" alt="Wakatime Stats" width="600" />
+</div>
+
+## <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="30" /> Profile Views & Metrics
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=rishaan007&label=Profile%20views&color=36BCF7&style=for-the-badge" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/rishaan007?label=Followers&style=for-the-badge&color=36BCF7" alt="Followers" />
+  <img src="https://img.shields.io/github/stars/rishaan007?label=Stars&style=for-the-badge&color=36BCF7" alt="Stars" />
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://visitcount.itsvg.in/api?id=rishaan007&icon=2&color=6" alt="Visit Count" />
+</div>
+
+## <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="30" /> Snake Game - Contribution Graph
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/rishaan007/rishaan007/blob/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://github.com/rishaan007/rishaan007/blob/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://github.com/rishaan007/rishaan007/blob/output/github-contribution-grid-snake.svg">
+  </picture>
+</div>
+
+## <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="30" /> Random Dev Quote
+
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&border=true" />
+</div>
+
+## <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="30" /> Currently Playing
+
+<div align="center">
+  <img src="https://spotify-github-profile.vercel.app/api/spotify?background_color=1a1b27&border_color=36BCF7" alt="Spotify Now Playing" />
+</div>
+
+## <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="30" /> Support My Work
+
+<div align="center">
+  <a href="https://www.buymeacoffee.com/rishaan007" target="_blank">
+    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="60" width="217">
+  </a>
+</div>
 
 ---
 
-## **💻 Languages and Tools:**
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="45" height="45"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="45" height="45"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="45" height="45"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="45" height="45"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="45" height="45"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="45" height="45"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="45" height="45"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="45" height="45"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="45" height="45"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="45" height="45"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="45" height="45"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="45" height="45"/> </a> </p>
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
+</div>
 
----
+<div align="center">
+  <h2><img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="30" /> "The journey of coding is like Java's public static void main(String[] args) — It all starts from here!" <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="30" /></h2>
+  <p><strong>Made with 💖 and lots of ☕ by Rishaan Kumar</strong></p>
+</div>
 
-## **📊 GitHub Stats**
-![rishaan007's Stats](https://github-readme-stats.vercel.app/api?username=rishaan007&theme=vision-friendly-dark&show_icons=true&hide_border=true&count_private=true) <br>
-![rishaan007's Streak](https://github-readme-streak-stats.herokuapp.com/?user=rishaan007&theme=vision-friendly-dark&hide_border=true) <br>
-![rishaan007's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rishaan007&theme=vision-friendly-dark&show_icons=true&hide_border=true&layout=compact)
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500">
+</div>
 
----
-
-## **✉️ Connect with me:**
-<p align="left">
-<a href="https://twitter.com/rishaankumar7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="rishaankumar7" height="45" width="45" /></a> 
-<a href="https://linkedin.com/in/rishaankumar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rishaankumar" height="45" width="45" /></a>
-<a href="https://instagram.com/therishaankumar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="therishaankumar" height="45" width="45" /></a>
-</p>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&animation=fadeIn" width="100%"/>
+</div>
