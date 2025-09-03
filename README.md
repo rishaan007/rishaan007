@@ -178,74 +178,6 @@
   <img src="https://user-images.githubusercontent.com/74038190/212750155-3ceddfbd-19d3-40a3-87af-8d329c8323c4.gif" width="600">
 </div>
 
-## <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="30" /> Featured Projects
-
-<div align="center">
-  <table>
-    <tr>
-      <td width="50%">
-        <h3 align="center" color="white">🩺 Swasthya Health Platform</h3>
-        <div align="center">  
-          <a href="https://github.com/rishaan007/Swasthya-main" target="_blank">
-            <img src="https://github-readme-stats.vercel.app/api/pin/?username=rishaan007&repo=Swasthya-main&theme=tokyonight&border_color=36BCF7&border_radius=10" alt="Swasthya-main" />
-          </a>
-        </div>
-        <br>
-        <p align="center">
-          <a href="https://github.com/rishaan007/Swasthya-main" target="_blank">
-            <img src="https://img.shields.io/badge/🔗-View%20Project-36BCF7?style=for-the-badge&logo=github"/>
-          </a>
-        </p>
-      </td>
-      <td width="50%">
-        <h3 align="center" color="white">⚡ Competitive Programming</h3>
-        <div align="center">
-          <a href="https://github.com/rishaan007/Competitive-Coding-Java" target="_blank">
-            <img src="https://github-readme-stats.vercel.app/api/pin/?username=rishaan007&repo=Competitive-Coding-Java&theme=tokyonight&border_color=36BCF7&border_radius=10" alt="Competitive-Coding-Java" />
-          </a>
-        </div>
-        <br>
-        <p align="center">
-          <a href="https://github.com/rishaan007/Competitive-Coding-Java" target="_blank">
-            <img src="https://img.shields.io/badge/🔗-View%20Project-36BCF7?style=for-the-badge&logo=github"/>
-          </a>
-        </p>
-      </td>
-    </tr>
-    <tr>
-      <td width="50%">
-        <h3 align="center" color="white">🔧 C Programming Fundamentals</h3>
-        <div align="center">
-          <a href="https://github.com/rishaan007/C-language" target="_blank">
-            <img src="https://github-readme-stats.vercel.app/api/pin/?username=rishaan007&repo=C-language&theme=tokyonight&border_color=36BCF7&border_radius=10" alt="C-language" />
-          </a>
-        </div>
-        <br>
-        <p align="center">
-          <a href="https://github.com/rishaan007/C-language" target="_blank">
-            <img src="https://img.shields.io/badge/🔗-View%20Project-36BCF7?style=for-the-badge&logo=github"/>
-          </a>
-        </p>
-      </td>
-      <td width="50%">
-        <h3 align="center" color="white">🎨 Web Development Basics</h3>
-        <div align="center">
-          <a href="https://github.com/rishaan007/CSS-Basics" target="_blank">
-            <img src="https://github-readme-stats.vercel.app/api/pin/?username=rishaan007&repo=CSS-Basics&theme=tokyonight&border_color=36BCF7&border_radius=10" alt="CSS-Basics" />
-          </a>
-        </div>
-        <br>
-        <p align="center">
-          <a href="https://github.com/rishaan007/CSS-Basics" target="_blank">
-            <img src="https://img.shields.io/badge/🔗-View%20Project-36BCF7?style=for-the-badge&logo=github"/>
-          </a>
-        </p>
-      </td>
-    </tr>
-  </table>
-</div>
-
-
 ## <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="30" /> Learning Journey
 
 <div align="center">
@@ -289,11 +221,6 @@
 </div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-## <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="30" /> Coding Activity
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="600">
-</div>\
 
 ## <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="30" /> Quote
 
