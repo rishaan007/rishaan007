@@ -24,7 +24,7 @@
 
 - 🕒 **Timezone:** UTC +05:30
 
-- ⚡ **Fun fact:** The journey of coding is like Java's `public static void main(String[] args)` — It all starts from here! 😄
+- ⚡ **Fun Fact:** "Spying on 30 Million People Isn't Part of My Job Description."
 
 <br clear="right"/>
 
@@ -174,11 +174,7 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=rishaan007&theme=tokyo-night&bg_color=1a1b27&hide_border=true&line=36BCF7&point=38bdae" width="100%"/>
 </div>
 
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212750155-3ceddfbd-19d3-40a3-87af-8d329c8323c4.gif" width="600">
-</div>
-
-## <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="30" /> Learning Journey
+## <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="30" /> Currently Focusing on
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=react,nodejs,flutter,mysql,mongodb&theme=dark" />
@@ -194,29 +190,26 @@
       <td align="center" width="120">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="60" height="60" alt="React" />
         <br><strong>React</strong>
-        <br><img src="https://progress-bar.dev/75/?title=Progress&width=100&color=61DAFB" />
+        <br>
       </td>
       <td align="center" width="120">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="60" height="60" alt="Node.js" />
         <br><strong>Node.js</strong>
-        <br><img src="https://progress-bar.dev/60/?title=Progress&width=100&color=43853D" />
+        <br>
       </td>
       <td align="center" width="120">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="60" height="60" alt="Flutter" />
         <br><strong>Flutter</strong>
-        <br><img src="https://progress-bar.dev/50/?title=Progress&width=100&color=02569B" />
+        <br>
       </td>
       <td align="center" width="120">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="60" height="60" alt="MySQL" />
         <br><strong>MySQL</strong>
-        <br><img src="https://progress-bar.dev/70/?title=Progress&width=100&color=00000F" />
+        <br>
       </td>
       <td align="center" width="120">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="60" height="60" alt="MongoDB" />
         <br><strong>MongoDB</strong>
-        <br><img src="https://progress-bar.dev/65/?title=Progress&width=100&color=4EA94B" />
-      </td>
-    </tr>
   </table>
 </div>
 
@@ -241,13 +234,10 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <div align="center">
-  <h2><img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="30" /> "The journey of coding is like Java's public static void main(String[] args) — It all starts from here!" <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="30" /></h2>
+  <h2><img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="30" /> "Some Men Just Want to Watch the World Burn." <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="30" /></h2>
   <p><strong>Made by Rishaan Kumar</strong></p>
 </div>
 
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500">
-</div>
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&animation=fadeIn" width="100%"/>
