@@ -293,28 +293,7 @@
 ## <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="30" /> Coding Activity
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="600">
-</div>
-
-
-## <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="30" /> Profile Views & Metrics
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=rishaan007&label=Profile%20views&color=A855F7&style=for-the-badge" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/rishaan007?label=Followers&style=for-the-badge&color=A855F7" alt="Followers" />
-  <img src="https://img.shields.io/github/stars/rishaan007?label=Stars&style=for-the-badge&color=A855F7" alt="Stars" />
-</div>
-<br>
-<div align="center">
-  <img src="https://visitcount.itsvg.in/api?id=rishaan007&icon=9&color=12" alt="Visit Count" />
-</div>
-
-
-## <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="30" /> Snake Game - Contribution Graph
- ![snake gif](https://github.com/Nilardri2006/rishaan007/blob/output/github-snake-dark.svg)
-<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0111.gif" width="1000" height="2" />
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="600">
-</div>
+</div>\
 
 ## <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="30" /> Quote
 
@@ -336,7 +315,7 @@
 
 <div align="center">
   <h2><img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="30" /> "The journey of coding is like Java's public static void main(String[] args) — It all starts from here!" <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="30" /></h2>
-  <p><strong>Made with 💖 and lots of ☕ by Rishaan Kumar</strong></p>
+  <p><strong>Made by Rishaan Kumar</strong></p>
 </div>
 
 <div align="center">
